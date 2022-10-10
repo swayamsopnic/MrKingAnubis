@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MrKingAnubis
+[![@kingmranubis's Holopin board](https://holopin.io/api/user/board?user=kingmranubis)](https://holopin.io/@kingmranubis)
 - 👀 I’m interested in ... Ethical Hacking and Coding
 - 🌱 I’m currently learning ... Networking and ethical hacking
 - 📫 How to reach me ... https://t.me/KingMrAnubis
